@@ -1,0 +1,11 @@
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets.deps.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets.runtimeconfig.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets.runtimeconfig.dev.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/bin/Debug/netcoreapp3.1/between-two-sets.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/obj/Debug/netcoreapp3.1/between-two-sets.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/obj/Debug/netcoreapp3.1/between-two-sets.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/obj/Debug/netcoreapp3.1/between-two-sets.AssemblyInfo.cs
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/obj/Debug/netcoreapp3.1/between-two-sets.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/between-two-sets/obj/Debug/netcoreapp3.1/between-two-sets.pdb

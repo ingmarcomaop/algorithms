@@ -15,18 +15,21 @@ def getTotalX(a, b):
         aux = 1
 
         for j in range(0, len(a)):
+            #print(str(array[i]) + " % " + str(a[j]))
             if array[i] % a[j] != 0:
                 aux = 0
             else:
                 continue
 
         for j in range(0, len(b)):
+            
             if b[j] % array[i] != 0:
                 aux = 0
             else:
                 continue
 
         if aux == 1:
+            
             numbers += 1
         else:
             continue
@@ -47,3 +50,4 @@ def getTotalX(a, b):
 a = [2, 6]
 b = [24, 36]
 test = getTotalX(a, b)
+print(test)

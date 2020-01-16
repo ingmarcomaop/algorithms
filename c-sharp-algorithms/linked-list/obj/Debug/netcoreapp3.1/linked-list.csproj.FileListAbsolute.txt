@@ -1,0 +1,11 @@
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list.deps.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list.runtimeconfig.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list.runtimeconfig.dev.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/bin/Debug/netcoreapp3.1/linked-list.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/obj/Debug/netcoreapp3.1/linked-list.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/obj/Debug/netcoreapp3.1/linked-list.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/obj/Debug/netcoreapp3.1/linked-list.AssemblyInfo.cs
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/obj/Debug/netcoreapp3.1/linked-list.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/linked-list/obj/Debug/netcoreapp3.1/linked-list.pdb
