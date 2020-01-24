@@ -1,0 +1,11 @@
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/obj/Debug/netcoreapp3.1/pyramid.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/obj/Debug/netcoreapp3.1/pyramid.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/obj/Debug/netcoreapp3.1/pyramid.AssemblyInfo.cs
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid.deps.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid.runtimeconfig.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid.runtimeconfig.dev.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/bin/Debug/netcoreapp3.1/pyramid.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/obj/Debug/netcoreapp3.1/pyramid.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/pyramid/obj/Debug/netcoreapp3.1/pyramid.pdb

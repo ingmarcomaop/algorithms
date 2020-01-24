@@ -9,8 +9,8 @@ namespace between_two_sets
         static void Main(string[] args)
         {
 
-            //int[] a = {2,6}; int[] b = {24,36};
-            int[] a = {2,4}; int[] b = {16,32,96};
+            int[] a = {2,6}; int[] b = {24,36};
+            //int[] a = {2,4}; int[] b = {16,32,96};
 
             int result = getTotalX(a, b);
 
