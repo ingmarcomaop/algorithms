@@ -1,0 +1,11 @@
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool.deps.json
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool.runtimeconfig.json
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool.runtimeconfig.dev.json
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool.dll
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/bin/Debug/netcoreapp3.1/CoreSchool.pdb
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/obj/Debug/netcoreapp3.1/CoreSchool.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/obj/Debug/netcoreapp3.1/CoreSchool.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/obj/Debug/netcoreapp3.1/CoreSchool.AssemblyInfo.cs
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/obj/Debug/netcoreapp3.1/CoreSchool.dll
+/home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/CoreSchool/obj/Debug/netcoreapp3.1/CoreSchool.pdb
