@@ -44,7 +44,8 @@ namespace PrimeraAplicacion
 
             Console.WriteLine($"El resultado es: {num1 + num2}");
 
-            //CONTINUAR EN EL VIDEO 8 DE C# DE PILDORAS INFORMATICAS
+            //CONTINUAR EN:
+            //https://www.youtube.com/watch?v=j8SYB_77fmE&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=8
 
 
 
