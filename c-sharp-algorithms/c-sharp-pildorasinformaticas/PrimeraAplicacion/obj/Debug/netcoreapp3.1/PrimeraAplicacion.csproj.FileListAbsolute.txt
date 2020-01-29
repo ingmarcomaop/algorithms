@@ -1,0 +1,11 @@
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/Debug/netcoreapp3.1/PrimeraAplicacion.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/Debug/netcoreapp3.1/PrimeraAplicacion.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/Debug/netcoreapp3.1/PrimeraAplicacion.AssemblyInfo.cs
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion.deps.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion.runtimeconfig.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion.runtimeconfig.dev.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/bin/Debug/netcoreapp3.1/PrimeraAplicacion.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/Debug/netcoreapp3.1/PrimeraAplicacion.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/Debug/netcoreapp3.1/PrimeraAplicacion.pdb
