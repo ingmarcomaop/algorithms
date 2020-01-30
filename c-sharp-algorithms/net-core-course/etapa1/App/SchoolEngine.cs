@@ -22,7 +22,7 @@ namespace CoreSchool.App
             LoadSignatures();
             LoadStudents();
             
-            LoadExams();
+            //LoadExams();
 
             //School.Courses.Add(new Course{Name="102", workingday = TypeWorkingDay.Afternoon});
             //School.Courses.Add(new Course{Name="202", workingday = TypeWorkingDay.Afternoon});
@@ -47,7 +47,7 @@ namespace CoreSchool.App
                     new Signature{Name="History"},
                     new Signature{Name="Biologic"}
                 };
-                course.Signatures.AddRange(listSignatures);
+                course.Signatures = listSignatures;
             }
         }
 

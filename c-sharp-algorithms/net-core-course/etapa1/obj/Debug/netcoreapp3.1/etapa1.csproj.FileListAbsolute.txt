@@ -9,3 +9,14 @@
 /home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.pdb
 /home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.dll
 /home/marcoortega/Documents/Satrack/netcore-examples/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.deps.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.runtimeconfig.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.runtimeconfig.dev.json
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/bin/Debug/netcoreapp3.1/etapa1.pdb
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.csprojAssemblyReference.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.AssemblyInfoInputs.cache
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.AssemblyInfo.cs
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.dll
+/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/Debug/netcoreapp3.1/etapa1.pdb

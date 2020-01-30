@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/etapa1.csproj",
-      "projectName": "etapa1",
-      "projectPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/etapa1.csproj",
+      "projectUniqueName": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/SegundaAplicacion/SegundaAplicacion.csproj",
+      "projectName": "SegundaAplicacion",
+      "projectPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/SegundaAplicacion/SegundaAplicacion.csproj",
       "packagesPath": "/home/marcoortega/.nuget/packages/",
-      "outputPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/net-core-course/etapa1/obj/",
+      "outputPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/SegundaAplicacion/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
