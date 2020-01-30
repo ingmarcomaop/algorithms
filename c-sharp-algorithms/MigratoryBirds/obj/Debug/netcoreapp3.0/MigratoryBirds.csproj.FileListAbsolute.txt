@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.exe
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.dll
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.dll
+D:\python-projects\algorithms\c-sharp-algorithms\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.pdb
