@@ -1,32 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/PrimeraAplicacion.csproj": {}
+    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\c-sharp-pildorasinformaticas\\PrimeraAplicacion\\PrimeraAplicacion.csproj": {}
   },
   "projects": {
-    "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/PrimeraAplicacion.csproj": {
+    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\c-sharp-pildorasinformaticas\\PrimeraAplicacion\\PrimeraAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/PrimeraAplicacion.csproj",
+        "projectUniqueName": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\c-sharp-pildorasinformaticas\\PrimeraAplicacion\\PrimeraAplicacion.csproj",
         "projectName": "PrimeraAplicacion",
-        "projectPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/PrimeraAplicacion.csproj",
-        "packagesPath": "/home/marcoortega/.nuget/packages/",
-        "outputPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/c-sharp-pildorasinformaticas/PrimeraAplicacion/obj/",
+        "projectPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\c-sharp-pildorasinformaticas\\PrimeraAplicacion\\PrimeraAplicacion.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\c-sharp-pildorasinformaticas\\PrimeraAplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "/home/marcoortega/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -37,7 +40,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
