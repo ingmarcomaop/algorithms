@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.exe
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.dll
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\bin\Debug\netcoreapp3.0\handshake.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\obj\Debug\netcoreapp3.0\handshake.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\obj\Debug\netcoreapp3.0\handshake.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\obj\Debug\netcoreapp3.0\handshake.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\obj\Debug\netcoreapp3.0\handshake.dll
+D:\python-projects\algorithms\c-sharp-algorithms\handshake\obj\Debug\netcoreapp3.0\handshake.pdb

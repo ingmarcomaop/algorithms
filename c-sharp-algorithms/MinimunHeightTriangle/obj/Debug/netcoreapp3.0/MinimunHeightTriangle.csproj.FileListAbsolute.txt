@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\obj\Debug\netcoreapp3.0\MinimunHeightTriangle.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\obj\Debug\netcoreapp3.0\MinimunHeightTriangle.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\obj\Debug\netcoreapp3.0\MinimunHeightTriangle.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.exe
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.dll
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\bin\Debug\netcoreapp3.0\MinimunHeightTriangle.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\obj\Debug\netcoreapp3.0\MinimunHeightTriangle.dll
+D:\python-projects\algorithms\c-sharp-algorithms\MinimunHeightTriangle\obj\Debug\netcoreapp3.0\MinimunHeightTriangle.pdb
