@@ -82,10 +82,13 @@ namespace PrimeraAplicacion
 
             //Tambien:
             if (edad1) Console.WriteLine("MAYUSCULA: ");
+            
+            //Tomar dato de teclado y asignarle variable y tipo de una vez:
+            //int edad = Int32.Parse(Console.Readline());
+
             else Console.WriteLine("minuscula: ");
 
-            //https://www.youtube.com/watch?v=TuwFgCngEOY&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&index=16
-
+            
         }
 
         public static double Suma(int v1, double v2, double v3 = 0.0) => v1 + v2 + v3;
