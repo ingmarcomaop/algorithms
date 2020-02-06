@@ -6,7 +6,7 @@ namespace pyramid
     {
         static void Main(string[] args)
         {
-            int levels = 11;
+            int levels = 6;
             int spaces = levels -1;
             int aux = spaces;
             
