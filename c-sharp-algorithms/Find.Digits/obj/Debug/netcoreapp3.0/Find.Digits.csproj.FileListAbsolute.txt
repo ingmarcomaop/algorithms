@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.exe
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.dll
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\bin\Debug\netcoreapp3.0\Find.Digits.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\obj\Debug\netcoreapp3.0\Find.Digits.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\obj\Debug\netcoreapp3.0\Find.Digits.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\obj\Debug\netcoreapp3.0\Find.Digits.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\obj\Debug\netcoreapp3.0\Find.Digits.dll
+D:\python-projects\algorithms\c-sharp-algorithms\Find.Digits\obj\Debug\netcoreapp3.0\Find.Digits.pdb
