@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\pyramid\\pyramid.csproj": {}
+    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj": {}
   },
   "projects": {
-    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\pyramid\\pyramid.csproj": {
+    "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\pyramid\\pyramid.csproj",
-        "projectName": "pyramid",
-        "projectPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\pyramid\\pyramid.csproj",
+        "projectUniqueName": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj",
+        "projectName": "Traveler.Seller.Problem",
+        "projectPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\pyramid\\obj\\",
+        "outputPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

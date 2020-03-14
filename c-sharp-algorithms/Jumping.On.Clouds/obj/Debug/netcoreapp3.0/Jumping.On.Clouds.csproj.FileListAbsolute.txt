@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.exe
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.dll
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\bin\Debug\netcoreapp3.0\Jumping.On.Clouds.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\obj\Debug\netcoreapp3.0\Jumping.On.Clouds.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\obj\Debug\netcoreapp3.0\Jumping.On.Clouds.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\obj\Debug\netcoreapp3.0\Jumping.On.Clouds.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\obj\Debug\netcoreapp3.0\Jumping.On.Clouds.dll
+D:\python-projects\algorithms\c-sharp-algorithms\Jumping.On.Clouds\obj\Debug\netcoreapp3.0\Jumping.On.Clouds.pdb

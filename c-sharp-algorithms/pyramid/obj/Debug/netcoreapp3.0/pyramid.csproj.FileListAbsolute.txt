@@ -1,0 +1,11 @@
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.exe
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.deps.json
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.runtimeconfig.json
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.runtimeconfig.dev.json
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.dll
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\bin\Debug\netcoreapp3.0\pyramid.pdb
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\obj\Debug\netcoreapp3.0\pyramid.csprojAssemblyReference.cache
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\obj\Debug\netcoreapp3.0\pyramid.AssemblyInfoInputs.cache
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\obj\Debug\netcoreapp3.0\pyramid.AssemblyInfo.cs
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\obj\Debug\netcoreapp3.0\pyramid.dll
+D:\python-projects\algorithms\c-sharp-algorithms\pyramid\obj\Debug\netcoreapp3.0\pyramid.pdb
