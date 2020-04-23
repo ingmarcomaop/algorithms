@@ -151,15 +151,15 @@ namespace Traveler.Seller.Problem
             while(count != (nodos - 1)){
 
                 tmpRow = takingRowPosition(matrix, posInitial, nodos);
-                tmpRow = rowPositionsToZero(tmpRow, routes); //Pone en cero la posición porque no puede volver a visitar ese nodo.
+                tmpRow = rowPositionsToZero(tmpRow, routes);//Pone en cero la posición porque no puede volver a visitar ese nodo.
                 minDistance = getMinDistance(tmpRow);
                 weigths.Add(minDistance);
-                minDistancePosition = getMinDistanPosition(tmpRow, minDistance);
-                routes.Add(minDistancePosition);
-                tmpRow = rowPositionsToZero(tmpRow, routes);
+                minDistancePosition = getMinDistanPosition(tmpRow, minDistance); //2
+                routes.Add(minDistancePosition);// 0, 2
                 matrix = newMatrix(tmpRow, posInitial, matrix);
                 posInitial = (int) routes[routes.Count - 1];
                 count += 1;
+
             }
 
             Console.WriteLine("Route:");
