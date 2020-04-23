@@ -57,15 +57,13 @@ namespace Jumping.On.Clouds
         {
             //int[] c = {0,0,1,0}; int k = 2;
             //int[] c = {1, 1, 1, 0, 1, 1, 0, 0, 0, 0}; int k = 3;
-            int[] c = {0, 0, 1, 0, 0, 1, 1, 0}; int k = 2;
+            //int[] c = {0, 0, 1, 0, 0, 1, 1, 0}; int k = 2;
+            int[] c = {0, 0, 1, 0, 0, 1, 1, 0}; int k = 3;
             
             //int timesToConcatArray = TimesToConcatArray(c, k);
             //int[] inputArray = ConcatArray(c, timesToConcatArray);
             int energy = jumpingOnClouds(c, k);
-            Console.WriteLine("The final energy level is: " + energy);
-            
-           
-            
+            Console.WriteLine("The final energy level is: " + energy); 
         }
     }
 }

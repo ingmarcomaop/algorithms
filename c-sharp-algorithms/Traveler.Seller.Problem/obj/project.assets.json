@@ -8,31 +8,28 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/marcoortega/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj",
+      "projectUniqueName": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/Traveler.Seller.Problem/Traveler.Seller.Problem.csproj",
       "projectName": "Traveler.Seller.Problem",
-      "projectPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\Traveler.Seller.Problem.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\python-projects\\algorithms\\c-sharp-algorithms\\Traveler.Seller.Problem\\obj\\",
+      "projectPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/Traveler.Seller.Problem/Traveler.Seller.Problem.csproj",
+      "packagesPath": "/home/marcoortega/.nuget/packages/",
+      "outputPath": "/home/marcoortega/Documents/Training/algorithms/c-sharp-algorithms/Traveler.Seller.Problem/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/marcoortega/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,12 +55,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.0.2, 3.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
