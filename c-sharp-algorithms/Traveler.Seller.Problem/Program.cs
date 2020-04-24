@@ -123,6 +123,52 @@ namespace Traveler.Seller.Problem
 
         }
 
+        public static int lastWeigth(int[,] matrixInput, int lastPosition, int totalNodes){
+
+            int lastWeigth = 0;
+
+            for(int i = 0; i < totalNodes; i++){
+
+                if(matrixInput[i, lastPosition] != 0){
+
+                    lastWeigth = matrixInput[i, lastPosition];
+                    break;
+
+                }else{ continue; }
+  
+            }
+
+            return lastWeigth;
+
+        }
+
+        public static int totalWeigth(ArrayList arrayWeigths, int lastWeigth){
+
+            int totalArraytWeigths = 0;
+
+            foreach(int element in arrayWeigths){
+                
+                totalArraytWeigths += element;
+            
+            }
+
+            return totalArraytWeigths + lastWeigth;
+
+        }
+
+        public static void showWeigth(ArrayList arrayWeigths, int lastWeigth){
+
+            Console.Write("   ");
+            foreach(int element in arrayWeigths){
+                
+                Console.Write("{0} +  ", element);
+            
+            }
+
+            Console.Write("{0} = ", lastWeigth);
+
+        }
+
         static void Main(string[] args)
         {
             ArrayList routes = new ArrayList();
@@ -132,8 +178,10 @@ namespace Traveler.Seller.Problem
 
             int minDistance = 0;
             int minDistancePosition = 0;
+            int totalWeigthRoute = 0;
+            int lastWeigthRoute = 0;
 
-            int nodos = 6;
+            int nodes = 6;
             int[,] matrix = {
                 {-1, 6, 4, 12, 0, 0},
                 {6, -1, 8, 0, 13, 0},
@@ -148,9 +196,9 @@ namespace Traveler.Seller.Problem
 
             int count = 0;
 
-            while(count != (nodos - 1)){
+            while(count != (nodes - 1)){
 
-                tmpRow = takingRowPosition(matrix, posInitial, nodos);
+                tmpRow = takingRowPosition(matrix, posInitial, nodes);
                 tmpRow = rowPositionsToZero(tmpRow, routes);//Pone en cero la posición porque no puede volver a visitar ese nodo.
                 minDistance = getMinDistance(tmpRow);
                 weigths.Add(minDistance);
@@ -165,6 +213,20 @@ namespace Traveler.Seller.Problem
             Console.WriteLine("Route:");
             routes.Add(routes[0]);
             cities = indexToCity(routes);
+
+            //Console.WriteLine("\nWeigths:");
+            lastWeigthRoute = lastWeigth(matrix, (int) routes[0], nodes);
+            totalWeigthRoute = totalWeigth(weigths,lastWeigthRoute);
+            showWeigth(weigths,lastWeigthRoute);
+            Console.Write("{0}", totalWeigthRoute);
+            Console.WriteLine();
+
+
+            
+            
+
+
+
 
         }
     }
